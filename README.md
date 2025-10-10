@@ -340,7 +340,7 @@ Ubuntu-Nginx-PHP-Redis/
 └── CONTRIBUTING.md
 ```
 
-## ⚠️ Important: Root Access Required
+## Important: Root Access Required
 
 **The script MUST be run as root (with sudo).** Here's why:
 
@@ -397,7 +397,7 @@ sudo ./wordpress-setup.sh  # ⚠️ sudo is REQUIRED
 -  **Contributing**: See [CONTRIBUTING.md](CONTRIBUTING.md)
 -  **Documentation**: This README + inline script comments
 
-## 📄 License
+## License
 
 This project is licensed under the **Apache License 2.0** - see the [LICENSE](LICENSE) file for details.
 
